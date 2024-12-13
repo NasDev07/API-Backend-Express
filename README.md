@@ -175,3 +175,13 @@ Contoh:
 ```
 http://localhost:3000/uploads/1733989476286.mp4
 ```
+
+connect MongoDB nama DB
+```
+workout-db
+```
+collection
+```
+workouts
+```
+![image](https://github.com/user-attachments/assets/fc5ddbc7-5cf9-4dd5-b57b-cd97daca08bd)
